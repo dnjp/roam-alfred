@@ -13,5 +13,5 @@ is doing what it is supposed to.
 
 ## Installation
 
-Simply download the [workflow](https://github.com/dnjp/roam-alfred/blob/main/+Roam%20Clipboard.alfredworkflow?raw=true)
+Simply [download the workflow](https://github.com/dnjp/roam-alfred/blob/main/+Roam%20Clipboard.alfredworkflow?raw=true)
 and open it in [Alfred](http://alfredapp.com) where you can configure the workflow to your taste.
